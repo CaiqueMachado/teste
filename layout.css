@@ -6,7 +6,7 @@
 #topo{
     width:980px;
     height:100px;
-    clear:both;
+    float:left;
     padding:10px;
     background-color: aquamarine;
 }
