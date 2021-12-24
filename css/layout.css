@@ -1,0 +1,21 @@
+/* !DOCTYPE CSS */
+.geral{
+    width:1000px;
+    margin:10px auto;
+    font:15px verdana;
+    color:white;
+}
+.topo{
+    width:980px;
+    padding:10px;
+    border-top-left-radius: 15px;
+    border-top-right-radius: 15px;
+    background-color: black;
+}
+.corpo{
+    width:980px;
+    padding:10px;
+    border-bottom-left-radius: 15px;
+    border-bottom-right-radius: 15px;
+    background-color: gray;
+}
